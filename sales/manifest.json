@@ -35,7 +35,7 @@
    "count": 7,
    "screenshot_taken": "2026-06-07 17:57",
    "visible_times": "1h ago, 3h ago, 2:07 AM, 12:38 AM, Yesterday 7:37 PM ($67), Yesterday 6:34 PM, Yesterday 6:40 AM",
-   "wording_rule": "last 24 hours; '7 sales in 24 hours' OK, not 'woke up'"
+   "wording_rule": "spans yesterday 6:40 AM to today ~5 PM (about a day and a half); say 'in two days', not '24 hours' or 'woke up'"
   },
   {
    "file": "sales/sale-1512.jpg",
