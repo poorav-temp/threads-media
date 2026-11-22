@@ -207,6 +207,15 @@
    "screenshot_taken": "2026-11-03 07:09",
    "visible_times": "2h ago ($63.50 Threads Growth System)",
    "wording_rule": "one sale; 'woke up to a sale' OK"
+  },
+  {
+   "file": "sales/sale-20261122.jpg",
+   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-20261122.jpg",
+   "type": "notifications",
+   "count": 3,
+   "screenshot_taken": "2026-11-22 13:28",
+   "visible_times": "3m ago, 3:59 AM, third card's time hidden behind the second",
+   "wording_rule": "same day, one overnight; '3 sales in one day' or 'woke up to sales' OK; fresh from Nov 22 2026, so 'today' is fine only for posts on Nov 22 US time"
   }
  ]
 }
