@@ -1,221 +1,221 @@
 {
- "note": "count = number of sales visible in the image (notifications) or the sales figure shown (dashboard). Post text must use exactly this number and match visible_times.",
- "images": [
-  {
-   "file": "sales/sale-1224.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1224.jpg",
-   "type": "notifications",
-   "count": 5,
-   "screenshot_taken": "2026-05-14 12:47",
-   "visible_times": "2h ago, 3h ago, Yesterday 11:54 PM, Tue 1:53 PM, Tue 2:01 AM",
-   "wording_rule": "spread over several days; say 'this week', never 'today' or 'woke up'"
-  },
-  {
-   "file": "sales/sale-1237.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1237.jpg",
-   "type": "notifications",
-   "count": 7,
-   "screenshot_taken": "2026-05-15 19:35",
-   "visible_times": "1:00 AM, 12:17 AM, Yesterday 9:56 AM, Yesterday 9:44 AM, Wed 11:54 PM, Tue 1:53 PM, Tue 2:01 AM",
-   "wording_rule": "spread over several days; say 'this week'"
-  },
-  {
-   "file": "sales/sale-1437.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1437.jpg",
-   "type": "notifications",
-   "count": 3,
-   "screenshot_taken": "2026-06-06 07:42",
-   "visible_times": "5m ago ($67 Threads Growth System), 1h ago, 6:40 AM",
-   "wording_rule": "morning; 'woke up to 3 sales' OK"
-  },
-  {
-   "file": "sales/sale-1441.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1441.jpg",
-   "type": "notifications",
-   "count": 7,
-   "screenshot_taken": "2026-06-07 17:57",
-   "visible_times": "1h ago, 3h ago, 2:07 AM, 12:38 AM, Yesterday 7:37 PM ($67), Yesterday 6:34 PM, Yesterday 6:40 AM",
-   "wording_rule": "spans yesterday 6:40 AM to today ~5 PM (about a day and a half); say 'in two days', not '24 hours' or 'woke up'"
-  },
-  {
-   "file": "sales/sale-1512.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1512.jpg",
-   "type": "notifications",
-   "count": 7,
-   "screenshot_taken": "2026-06-19 15:10",
-   "visible_times": "1h ago ($127 mentorship), Yesterday 5:14 AM, Yesterday 1:26 AM, Wed 9:55 PM, Tue 11:16 PM, Tue 11:16 PM, Tue 10:45 PM",
-   "wording_rule": "spread over several days; 'this week'"
-  },
-  {
-   "file": "sales/sale-1530.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1530.jpg",
-   "type": "dashboard",
-   "count": 12,
-   "screenshot_taken": "2026-06-21 23:07",
-   "visible_times": "Gumroad dashboard, Today: $77.83 from 12 sales",
-   "wording_rule": "one day; '12 sales in one day' OK"
-  },
-  {
-   "file": "sales/sale-1554.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1554.jpg",
-   "type": "dashboard",
-   "count": 283,
-   "screenshot_taken": "2026-06-26 13:42",
-   "visible_times": "Gumroad dashboard, Month: $1,024.14 from 283 sales",
-   "wording_rule": "one month; '283 sales this month' style, use the exact numbers"
-  },
-  {
-   "file": "sales/sale-1580.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1580.jpg",
-   "type": "notifications",
-   "count": 2,
-   "screenshot_taken": "2026-07-02 10:02",
-   "visible_times": "now, now",
-   "wording_rule": "two sales at the same moment"
-  },
-  {
-   "file": "sales/sale-1582.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1582.jpg",
-   "type": "notifications",
-   "count": 2,
-   "screenshot_taken": "2026-07-03 07:39",
-   "visible_times": "3:09 AM, 2:54 AM",
-   "wording_rule": "overnight; 'woke up to 2 sales' OK"
-  },
-  {
-   "file": "sales/sale-1603.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1603.jpg",
-   "type": "notifications",
-   "count": 8,
-   "screenshot_taken": "2026-07-05 09:06",
-   "visible_times": "18m ago, 1h ago, 1h ago, 1h ago, 2h ago, 2h ago, 4:20 AM, 4:20 AM",
-   "wording_rule": "overnight + early morning; 'woke up to 8 sales' or '8 sales before 9am' OK"
-  },
-  {
-   "file": "sales/sale-1605.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1605.jpg",
-   "type": "notifications",
-   "count": 3,
-   "screenshot_taken": "2026-07-05 13:28",
-   "visible_times": "3m ago x3 ($87.50, $30, $158.75)",
-   "wording_rule": "3 sales within minutes"
-  },
-  {
-   "file": "sales/sale-1606.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1606.jpg",
-   "type": "notifications",
-   "count": 7,
-   "screenshot_taken": "2026-07-05 13:28",
-   "visible_times": "4m ago x3, 1h ago, 8:48 AM, 7:53 AM, 7:50 AM",
-   "wording_rule": "same day, morning to lunch; '7 sales before lunch' OK"
-  },
-  {
-   "file": "sales/sale-1607.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1607.jpg",
-   "type": "dashboard",
-   "count": 18,
-   "screenshot_taken": "2026-07-05 13:29",
-   "visible_times": "Gumroad dashboard, Today: $365.25 from 18 sales",
-   "wording_rule": "one day"
-  },
-  {
-   "file": "sales/sale-1609.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1609.jpg",
-   "type": "dashboard",
-   "count": 21,
-   "screenshot_taken": "2026-07-05 21:07",
-   "visible_times": "Gumroad dashboard, Today: $388.27 from 21 sales",
-   "wording_rule": "one day"
-  },
-  {
-   "file": "sales/sale-1613.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1613.jpg",
-   "type": "dashboard",
-   "count": 23,
-   "screenshot_taken": "2026-07-05 23:12",
-   "visible_times": "Gumroad dashboard, Today: $402.27 from 23 sales",
-   "wording_rule": "one day; best single day"
-  },
-  {
-   "file": "sales/sale-1622.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1622.jpg",
-   "type": "dashboard",
-   "count": 3882,
-   "screenshot_taken": "2026-07-06 14:03",
-   "visible_times": "Gumroad dashboard total: $2,960.04 from 3,882 sales",
-   "wording_rule": "all-time total; includes free downloads, so say 'sales' exactly as Gumroad shows it"
-  },
-  {
-   "file": "sales/sale-1657.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1657.jpg",
-   "type": "dashboard",
-   "count": 3916,
-   "screenshot_taken": "2026-07-11 10:51",
-   "visible_times": "Gumroad dashboard total: $3,140.91 from 3,916 sales",
-   "wording_rule": "all-time total"
-  },
-  {
-   "file": "sales/sale-1880.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1880.jpg",
-   "type": "notifications",
-   "count": 2,
-   "screenshot_taken": "2026-07-28 08:13",
-   "visible_times": "2h ago ($127 Threads Growth System), 1:02 AM",
-   "wording_rule": "overnight; 'woke up to 2 sales' OK"
-  },
-  {
-   "file": "sales/sale-1882.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1882.jpg",
-   "type": "notifications",
-   "count": 4,
-   "screenshot_taken": "2026-07-28 16:25",
-   "visible_times": "11m ago, 11m ago, 5:49 AM ($127), 1:02 AM",
-   "wording_rule": "same day; '4 sales today' wording only as 'in one day'"
-  },
-  {
-   "file": "sales/sale-1891.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1891.jpg",
-   "type": "dashboard",
-   "count": 269,
-   "screenshot_taken": "2026-07-31 09:17",
-   "visible_times": "Gumroad dashboard, Month: $1,151.09 from 269 sales",
-   "wording_rule": "one month"
-  },
-  {
-   "file": "sales/sale-1907.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1907.jpg",
-   "type": "dashboard",
-   "count": 273,
-   "screenshot_taken": "2026-07-31 22:19",
-   "visible_times": "Gumroad dashboard, Month: $1,158.09 from 273 sales",
-   "wording_rule": "one month"
-  },
-  {
-   "file": "sales/sale-2971.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-2971.jpg",
-   "type": "notifications",
-   "count": 2,
-   "screenshot_taken": "2026-10-30 09:42",
-   "visible_times": "Yesterday 11:06 PM x2",
-   "wording_rule": "last night; '2 sales last night' OK"
-  },
-  {
-   "file": "sales/sale-3004.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-3004.jpg",
-   "type": "notifications",
-   "count": 1,
-   "screenshot_taken": "2026-11-03 07:09",
-   "visible_times": "2h ago ($63.50 Threads Growth System)",
-   "wording_rule": "one sale; 'woke up to a sale' OK"
-  },
-  {
-   "file": "sales/sale-20261122.jpg",
-   "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-20261122.jpg",
-   "type": "notifications",
-   "count": 3,
-   "screenshot_taken": "2026-11-22 13:28",
-   "visible_times": "3m ago, 3:59 AM, third card's time hidden behind the second",
-   "wording_rule": "same day, one overnight; '3 sales in one day' or 'woke up to sales' OK; fresh from Nov 22 2026, so 'today' is fine only for posts on Nov 22 US time"
-  }
- ]
+  "note": "count = number of sales visible in the image (notifications) or the sales figure shown (dashboard). Post text must use exactly this number and match visible_times.",
+  "images": [
+    {
+      "file": "sales/sale-1224.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1224.jpg",
+      "type": "notifications",
+      "count": 5,
+      "screenshot_taken": "2026-05-14 12:47",
+      "visible_times": "2h ago, 3h ago, Yesterday 11:54 PM, Tue 1:53 PM, Tue 2:01 AM",
+      "wording_rule": "spread over several days; say 'this week', never 'today' or 'woke up'"
+    },
+    {
+      "file": "sales/sale-1237.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1237.jpg",
+      "type": "notifications",
+      "count": 7,
+      "screenshot_taken": "2026-05-15 19:35",
+      "visible_times": "1:00 AM, 12:17 AM, Yesterday 9:56 AM, Yesterday 9:44 AM, Wed 11:54 PM, Tue 1:53 PM, Tue 2:01 AM",
+      "wording_rule": "spread over several days; say 'this week'"
+    },
+    {
+      "file": "sales/sale-1437.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1437.jpg",
+      "type": "notifications",
+      "count": 3,
+      "screenshot_taken": "2026-06-06 07:42",
+      "visible_times": "5m ago ($67 Threads Growth System), 1h ago, 6:40 AM",
+      "wording_rule": "morning; 'woke up to 3 sales' OK"
+    },
+    {
+      "file": "sales/sale-1441.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1441.jpg",
+      "type": "notifications",
+      "count": 7,
+      "screenshot_taken": "2026-06-07 17:57",
+      "visible_times": "1h ago, 3h ago, 2:07 AM, 12:38 AM, Yesterday 7:37 PM ($67), Yesterday 6:34 PM, Yesterday 6:40 AM",
+      "wording_rule": "spans yesterday 6:40 AM to today ~5 PM (about a day and a half); say 'in two days', not '24 hours' or 'woke up'"
+    },
+    {
+      "file": "sales/sale-1512.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1512.jpg",
+      "type": "notifications",
+      "count": 7,
+      "screenshot_taken": "2026-06-19 15:10",
+      "visible_times": "1h ago ($127 mentorship), Yesterday 5:14 AM, Yesterday 1:26 AM, Wed 9:55 PM, Tue 11:16 PM, Tue 11:16 PM, Tue 10:45 PM",
+      "wording_rule": "spread over several days; 'this week'"
+    },
+    {
+      "file": "sales/sale-1530.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1530.jpg",
+      "type": "dashboard",
+      "count": 12,
+      "screenshot_taken": "2026-06-21 23:07",
+      "visible_times": "Gumroad dashboard, Today: $77.83 from 12 sales",
+      "wording_rule": "one day; '12 sales in one day' OK"
+    },
+    {
+      "file": "sales/sale-1554.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1554.jpg",
+      "type": "dashboard",
+      "count": 283,
+      "screenshot_taken": "2026-06-26 13:42",
+      "visible_times": "Gumroad dashboard, Month: $1,024.14 from 283 sales",
+      "wording_rule": "one month; '283 sales this month' style, use the exact numbers"
+    },
+    {
+      "file": "sales/sale-1580.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1580.jpg",
+      "type": "notifications",
+      "count": 2,
+      "screenshot_taken": "2026-07-02 10:02",
+      "visible_times": "now, now",
+      "wording_rule": "two sales at the same moment"
+    },
+    {
+      "file": "sales/sale-1582.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1582.jpg",
+      "type": "notifications",
+      "count": 2,
+      "screenshot_taken": "2026-07-03 07:39",
+      "visible_times": "3:09 AM, 2:54 AM",
+      "wording_rule": "overnight; 'woke up to 2 sales' OK"
+    },
+    {
+      "file": "sales/sale-1603.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1603.jpg",
+      "type": "notifications",
+      "count": 8,
+      "screenshot_taken": "2026-07-05 09:06",
+      "visible_times": "18m ago, 1h ago, 1h ago, 1h ago, 2h ago, 2h ago, 4:20 AM, 4:20 AM",
+      "wording_rule": "overnight + early morning; 'woke up to 8 sales' or '8 sales before 9am' OK"
+    },
+    {
+      "file": "sales/sale-1605.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1605.jpg",
+      "type": "notifications",
+      "count": 3,
+      "screenshot_taken": "2026-07-05 13:28",
+      "visible_times": "3m ago x3 ($87.50, $30, $158.75)",
+      "wording_rule": "3 sales within minutes"
+    },
+    {
+      "file": "sales/sale-1606.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1606.jpg",
+      "type": "notifications",
+      "count": 7,
+      "screenshot_taken": "2026-07-05 13:28",
+      "visible_times": "4m ago x3, 1h ago, 8:48 AM, 7:53 AM, 7:50 AM",
+      "wording_rule": "same day, morning to lunch; '7 sales before lunch' OK"
+    },
+    {
+      "file": "sales/sale-1607.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1607.jpg",
+      "type": "dashboard",
+      "count": 18,
+      "screenshot_taken": "2026-07-05 13:29",
+      "visible_times": "Gumroad dashboard, Today: $365.25 from 18 sales",
+      "wording_rule": "one day"
+    },
+    {
+      "file": "sales/sale-1609.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1609.jpg",
+      "type": "dashboard",
+      "count": 21,
+      "screenshot_taken": "2026-07-05 21:07",
+      "visible_times": "Gumroad dashboard, Today: $388.27 from 21 sales",
+      "wording_rule": "one day"
+    },
+    {
+      "file": "sales/sale-1613.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1613.jpg",
+      "type": "dashboard",
+      "count": 23,
+      "screenshot_taken": "2026-07-05 23:12",
+      "visible_times": "Gumroad dashboard, Today: $402.27 from 23 sales",
+      "wording_rule": "one day; best single day"
+    },
+    {
+      "file": "sales/sale-1622.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1622.jpg",
+      "type": "dashboard",
+      "count": 3882,
+      "screenshot_taken": "2026-07-06 14:03",
+      "visible_times": "Gumroad dashboard total: $2,960.04 from 3,882 sales",
+      "wording_rule": "all-time total; includes free downloads, so say 'sales' exactly as Gumroad shows it"
+    },
+    {
+      "file": "sales/sale-1657.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1657.jpg",
+      "type": "dashboard",
+      "count": 3916,
+      "screenshot_taken": "2026-07-11 10:51",
+      "visible_times": "Gumroad dashboard total: $3,140.91 from 3,916 sales",
+      "wording_rule": "all-time total"
+    },
+    {
+      "file": "sales/sale-1880.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1880.jpg",
+      "type": "notifications",
+      "count": 2,
+      "screenshot_taken": "2026-07-28 08:13",
+      "visible_times": "2h ago ($127 Threads Growth System), 1:02 AM",
+      "wording_rule": "overnight; 'woke up to 2 sales' OK"
+    },
+    {
+      "file": "sales/sale-1882.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1882.jpg",
+      "type": "notifications",
+      "count": 4,
+      "screenshot_taken": "2026-07-28 16:25",
+      "visible_times": "11m ago, 11m ago, 5:49 AM ($127), 1:02 AM",
+      "wording_rule": "same day; '4 sales today' wording only as 'in one day'"
+    },
+    {
+      "file": "sales/sale-1891.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1891.jpg",
+      "type": "dashboard",
+      "count": 269,
+      "screenshot_taken": "2026-07-31 09:17",
+      "visible_times": "Gumroad dashboard, Month: $1,151.09 from 269 sales",
+      "wording_rule": "one month"
+    },
+    {
+      "file": "sales/sale-1907.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-1907.jpg",
+      "type": "dashboard",
+      "count": 273,
+      "screenshot_taken": "2026-07-31 22:19",
+      "visible_times": "Gumroad dashboard, Month: $1,158.09 from 273 sales",
+      "wording_rule": "one month"
+    },
+    {
+      "file": "sales/sale-2971.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-2971.jpg",
+      "type": "notifications",
+      "count": 2,
+      "screenshot_taken": "2026-10-30 09:42",
+      "visible_times": "Yesterday 11:06 PM x2",
+      "wording_rule": "last night; '2 sales last night' OK"
+    },
+    {
+      "file": "sales/sale-3004.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-3004.jpg",
+      "type": "notifications",
+      "count": 1,
+      "screenshot_taken": "2026-11-03 07:09",
+      "visible_times": "2h ago ($63.50 Threads Growth System)",
+      "wording_rule": "one sale; 'woke up to a sale' OK"
+    },
+    {
+      "file": "sales/sale-20261122.jpg",
+      "url": "https://raw.githubusercontent.com/poorav-temp/threads-media/main/sales/sale-20261122.jpg",
+      "type": "notifications",
+      "count": 2,
+      "screenshot_taken": "2026-11-22 13:28",
+      "visible_times": "3m ago, 3:59 AM (half-hidden third card cropped off Nov 22 2026)",
+      "wording_rule": "same day, one overnight at 3:59 AM; '2 sales in one day' or '2 sales, one at 3:59 AM while I was asleep' OK; never 'today' after Nov 22"
+    }
+  ]
 }
